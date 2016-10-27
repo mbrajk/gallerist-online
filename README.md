@@ -35,6 +35,7 @@ You will need the following software installed to this application:
 - Create and persist a basic game instance
 - View a list of all in-progress games and re-open games in which you are a member
 - Require authorization to create/join games
+- Take turns and see other players actions in real-time
 
 -----
 
